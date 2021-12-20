@@ -1,4 +1,5 @@
-[
+{
+    "datos":[
     { "id": 1, "nombre": "Rocio","profesion":"Diseñadora"},
     { "id": 2, "nombre": "Claudio","profesion":"Kinesiologo"},
     { "id": 3, "nombre": "Verónica","profesion":"Enfermera"}
